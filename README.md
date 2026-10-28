@@ -1,5 +1,7 @@
 # ToolOps
 
+[![CI](https://github.com/Raphailinc/ToolOps/actions/workflows/ci.yml/badge.svg)](https://github.com/Raphailinc/ToolOps/actions/workflows/ci.yml)
+
 [English](README.md) · [Русский](README.ru.md)
 
 A small C++ application for recording equipment and maintenance requests.

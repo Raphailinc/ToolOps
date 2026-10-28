@@ -1,5 +1,7 @@
 # ToolOps
 
+[![CI](https://github.com/Raphailinc/ToolOps/actions/workflows/ci.yml/badge.svg)](https://github.com/Raphailinc/ToolOps/actions/workflows/ci.yml)
+
 Мини-клиент для учёта оборудования и заявок на обслуживание. Хранит данные в TSV, работает через CLI и собирается CMake-ом без зависимостей.
 
 ## Что нового
